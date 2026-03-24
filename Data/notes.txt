@@ -1,0 +1,2 @@
+﻿Learn Python.
+Learn C.
